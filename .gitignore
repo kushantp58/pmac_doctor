@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+build/pyi/
+dist/
+tools/InnoSetup/
+tools/downloads/
+tests/screenshots/
+.pytest_cache/
